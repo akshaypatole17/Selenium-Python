@@ -1,0 +1,219 @@
+1539495862965	geckodriver	INFO	geckodriver 0.20.0
+1539495862977	geckodriver	INFO	Listening on 127.0.0.1:50378
+1539495866100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.kHLSm4YNt3s8"
+JavaScript warning: resource://gre/modules/addons/XPIInstall.jsm, line 912: unreachable code after return statement
+JavaScript warning: resource://gre/modules/addons/XPIDatabase.jsm, line 389: unreachable code after return statement
+1539495875353	Marionette	INFO	Listening on port 50386
+1539495875900	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539495875941	Marionette	DEBUG	[4294967297] Frame script loaded
+1539495875943	Marionette	DEBUG	[4294967297] Frame script registered
+1539495876086	Marionette	DEBUG	[4294967297] Received DOM event beforeunload for about:blank
+1539495877833	Marionette	DEBUG	[4294967297] Received DOM event pagehide for about:blank
+1539495879391	Marionette	DEBUG	[4294967297] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1539495881652	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967306
+1539495884757	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967312
+1539495884769	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967314
+1539495884776	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967317
+1539495884783	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967320
+1539495884900	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967322
+1539495884901	Marionette	DEBUG	[4294967297] Received observer notification outer-window-destroyed for 4294967324
+1539495885141	Marionette	DEBUG	[4294967297] Received DOM event pageshow for https://www.facebook.com/
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.facebook.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[Parent 8472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4304[Child 5496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5496, Chrome_Child[Parent 8472, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9980, 1539495957054	Marionette	INFO	Stopped listening on port 50386
+[GPU 8368
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539495966133	geckodriver	INFO	geckodriver 0.20.0
+1539495966145	geckodriver	INFO	Listening on 127.0.0.1:50439
+1539495969204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.XVKShKLD4ZGQ"
+JavaScript warning: resource://gre/modules/addons/XPIInstall.jsm, line 912: unreachable code after return statement
+JavaScript warning: resource://gre/modules/addons/XPIDatabase.jsm, line 389: unreachable code after return statement
+1539495973125	Marionette	INFO	Listening on port 50447
+1539495973395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539495973425	Marionette	DEBUG	[6442450945] Frame script loaded
+1539495973427	Marionette	DEBUG	[6442450945] Frame script registered
+1539495973607	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539495975331	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539495975991	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1539495978356	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1539495980593	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1539495980608	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1539495980616	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1539495980623	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1539495980765	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1539495980765	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1539495980908	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+[Child 4544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4544, Chrom[Parent 12200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12200, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1456, Chrome_ChildThread]1539496142814	Marionette	INFO	Stopped listening on port 50447
+[GPU 8072, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539496150587	geckodriver	INFO	geckodriver 0.21.0
+1539496150747	geckodriver	INFO	Listening on 127.0.0.1:50500
+1539496153821	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.mU86vPpN1sdP"
+JavaScript warning: resource://gre/modules/addons/XPIInstall.jsm, line 912: unreachable code after return statement
+JavaScript warning: resource://gre/modules/addons/XPIDatabase.jsm, line 389: unreachable code after return statement
+1539496157809	Marionette	INFO	Listening on port 50508
+1539496158240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539496158295	Marionette	DEBUG	[6442450945] Frame script loaded
+1539496158298	Marionette	DEBUG	[6442450945] Frame script registered
+1539496158553	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539496159501	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539496160452	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1539496162716	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1539496164796	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1539496164810	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1539496164817	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1539496164823	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1539496164941	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1539496164942	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1539496165366	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.facebook.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.facebook.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+[Child 4376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bui[Parent 11312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 91539496262211	Marionette	INFO	Stopped listening on port 50508
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539496266215	geckodriver	INFO	geckodriver 0.21.0
+1539496266223	geckodriver	INFO	Listening on 127.0.0.1:50553
+1539496269294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.r90y0RZs49mu"
+JavaScript warning: resource://gre/modules/addons/XPIInstall.jsm, line 912: unreachable code after return statement
+JavaScript warning: resource://gre/modules/addons/XPIDatabase.jsm, line 389: unreachable code after return statement
+1539496273223	Marionette	INFO	Listening on port 50561
+1539496273706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539496273738	Marionette	DEBUG	[6442450945] Frame script loaded
+1539496273739	Marionette	DEBUG	[6442450945] Frame script registered
+1539496273756	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539496275467	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539496276340	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1539496278078	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1539496280064	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1539496280078	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1539496280085	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1539496280092	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1539496280216	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1539496280217	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1539496280335	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+1539496280663	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.facebook.com/
+1539496282645	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.facebook.com/
+1539496282665	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.facebook.com/
+1539496284132	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1539496284132	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1539496284133	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1539496284133	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1539496286389	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1539496288881	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450984
+1539496289849	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1539496290392	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+1539496296447	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+[Parent 9908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 78[Parent 9908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5536, Chrome_ChildThre1539496330233	Marionette	INFO	Stopped listening on port 50561
+[GPU 10904, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539496342710	geckodriver	INFO	geckodriver 0.21.0
+1539496342718	geckodriver	INFO	Listening on 127.0.0.1:50616
+1539496345758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.8KQxUjlMgXDK"
+JavaScript warning: resource://gre/modules/addons/XPIInstall.jsm, line 912: unreachable code after return statement
+JavaScript warning: resource://gre/modules/addons/XPIDatabase.jsm, line 389: unreachable code after return statement
+1539496350326	Marionette	INFO	Listening on port 50624
+1539496350749	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539496350787	Marionette	DEBUG	[6442450945] Frame script loaded
+1539496350789	Marionette	DEBUG	[6442450945] Frame script registered
+1539496350807	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539496352348	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539496353731	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1539496356326	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450953
+1539496359051	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1539496359064	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1539496359074	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1539496359081	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1539496359192	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1539496359193	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1539496359468	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+1539496359741	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.facebook.com/
+1539496361202	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.facebook.com/
+1539496361213	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.facebook.com/
+1539496361549	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1539496361550	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1539496361550	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1539496361552	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1539496363081	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1539496364864	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450984
+1539496365332	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1539496368731	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450988
+1539496371107	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+1539496371114	Marionette	INFO	Stopped listening on port 50624
+[Child 1040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1[GPU 1320
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1539496419586	geckodriver	INFO	geckodriver 0.21.0
+1539496419606	geckodriver	INFO	Listening on 127.0.0.1:50679
+1539496422622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Akshay\\AppData\\Local\\Temp\\rust_mozprofile.lPIM2FTrfzo2"
+JavaScript warning: resource://gre/modules/addons/XPIInstall.jsm, line 912: unreachable code after return statement
+JavaScript warning: resource://gre/modules/addons/XPIDatabase.jsm, line 389: unreachable code after return statement
+1539496426572	Marionette	INFO	Listening on port 50687
+1539496426972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1539496427005	Marionette	DEBUG	[6442450945] Frame script loaded
+1539496427007	Marionette	DEBUG	[6442450945] Frame script registered
+1539496427022	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1539496428956	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1539496429893	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1539496431530	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450955
+1539496433482	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450960
+1539496433497	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1539496433507	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450965
+1539496433515	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1539496433633	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1539496433634	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450972
+1539496433784	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+1539496434104	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.facebook.com/
+1539496435482	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.facebook.com/
+1539496435507	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.facebook.com/
+1539496435836	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1539496435837	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1539496435837	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1539496435837	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1539496437218	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.facebook.com/
+1539496440318	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450984
+[Parent 8872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1539496441004	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450982
+1539496442405	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450987
+1539496449227	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.facebook.com/
+1539496449231	Marionette	INFO	Stopped listening on port 50687
+[Parent 8872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 91539496449527	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 8872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
