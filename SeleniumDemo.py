@@ -11,6 +11,7 @@ from selenium.common.exceptions import TimeoutException
 
 url = "https://www.facebook.com"
 driver = webdriver.Firefox(executable_path='F:\Akshay Study\Study IT\Selenium\Project Files\Geckodriver\geckodriver-v0.21.0-win64\geckodriver.exe')
+driver = webdriver.Chrome(executable_path='F:\Akshay Study\Study IT\Selenium\Project Files\Chromedriver\chromedriver.exe')
 
 driver.get(url)
 
