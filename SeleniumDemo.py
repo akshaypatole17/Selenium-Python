@@ -19,7 +19,7 @@ password = driver.find_element_by_id('pass')
 submit = driver.find_element_by_id("u_0_2")
 
 username.send_keys("akshaypatole17@gmail.com")
-password.send_keys("7776810348")
+password.send_keys("Password")
 
 submit.click()
 
